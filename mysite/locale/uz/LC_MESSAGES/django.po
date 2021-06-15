@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-15 16:06+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\home\views.py:22 .\templates\index.html:42
+msgid "TEXT"
+msgstr "Xush kelibsiz"
+
+#: .\mysite\settings.py:109
+msgid "English"
+msgstr ""
+
+#: .\mysite\settings.py:110
+msgid "Uzbek"
+msgstr ""
+
+#: .\templates\index.html:62
+msgid "SERVICE_TEXT_1"
+msgstr "To'liq javob beradi"
+
+#: .\templates\index.html:63
+msgid "SERVICE_TEXT_1.1"
+msgstr ""
+"Ushbu mavzu har qanday qurilmada, o'lchamidan qat'i nazar, ajoyib ko'rinadi!"
+
+#: .\templates\index.html:69
+msgid "SERVICE_TEXT_2"
+msgstr "Bootstrap 4 tayyor"
+
+#: .\templates\index.html:70
+msgid "SERVICE_TEXT_2.1"
+msgstr "Yangi Bootstrap 4 ramkasining so'nggi versiyasini taqdim etamiz!"
+
+#: .\templates\index.html:76
+msgid "SERVICE_TEXT_3"
+msgstr "Foydalanish oson"
+
+#: .\templates\index.html:77
+msgid "SERVICE_TEXT_3.1"
+msgstr ""
+"O'zingizning kontentingiz bilan foydalanishga yoki manba fayllarini "
+"sozlashga tayyormiz!"
+
+#: .\templates\index.html:110
+msgid "PEOPLE_SAY..."
+msgstr "Odamlar nima deyishadi ..."
+
+#: .\templates\index.html:132
+msgid "SIGN_UP"
+msgstr "Boshlashga tayyormisiz? Hozir ro'yxatdan o'ting!"
+
+#: .\templates\index.html:137
+msgid "ENTER_EMAIL"
+msgstr "Elektron pochtangizni kiriting..."
+
+#: .\templates\index.html:138
+msgid "SIGN_UPP"
+msgstr "A'zo bo'lish"
+
+#: .\templates\index.html:151
+msgid "ABOUT"
+msgstr "Biz haqimizda"
+
+#: .\templates\index.html:153
+msgid "CONTACT"
+msgstr "Kontakt"
+
+#: .\templates\index.html:155
+msgid "ABOUT_US"
+msgstr "Foydalanish shartlari"
+
+#: .\templates\index.html:157
+msgid "POLICY"
+msgstr "Maxfiylik siyosati"
